@@ -1,0 +1,23 @@
+{
+    "asset": {
+        "name": "i4642_c393_v6957_i_0874.jpg",
+        "image_id": 16978,
+        "size": {
+            "width": 1280,
+            "height": 800
+        }
+    },
+    "objects": [
+        {
+            "class": 3,
+            "boundingBox": {
+                "xmin": 110,
+                "ymin": 83,
+                "xmax": 1164,
+                "ymax": 726,
+                "width": 1054,
+                "height": 643
+            }
+        }
+    ]
+}

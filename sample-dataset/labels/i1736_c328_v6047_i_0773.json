@@ -1,0 +1,45 @@
+{
+    "asset": {
+        "name": "i1736_c328_v6047_i_0773.jpg",
+        "image_id": 16576,
+        "size": {
+            "width": 1792,
+            "height": 1120
+        }
+    },
+    "objects": [
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 454,
+                "ymin": 505,
+                "xmax": 1387,
+                "ymax": 1044,
+                "width": 933,
+                "height": 539
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 991,
+                "ymin": 163,
+                "xmax": 1551,
+                "ymax": 457,
+                "width": 560,
+                "height": 294
+            }
+        },
+        {
+            "class": 3,
+            "boundingBox": {
+                "xmin": 302,
+                "ymin": 196,
+                "xmax": 863,
+                "ymax": 419,
+                "width": 561,
+                "height": 223
+            }
+        }
+    ]
+}

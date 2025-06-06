@@ -1,0 +1,67 @@
+{
+    "asset": {
+        "name": "i1_c311_v5833_i_1217.jpg",
+        "image_id": 16605,
+        "size": {
+            "width": 1024,
+            "height": 768
+        }
+    },
+    "objects": [
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 762,
+                "ymin": 415,
+                "xmax": 1008,
+                "ymax": 583,
+                "width": 246,
+                "height": 168
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 718,
+                "ymin": 225,
+                "xmax": 1023,
+                "ymax": 399,
+                "width": 305,
+                "height": 174
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 763,
+                "ymin": 13,
+                "xmax": 1011,
+                "ymax": 155,
+                "width": 248,
+                "height": 142
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 11,
+                "ymin": 132,
+                "xmax": 678,
+                "ymax": 263,
+                "width": 667,
+                "height": 131
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 91,
+                "ymin": 587,
+                "xmax": 736,
+                "ymax": 754,
+                "width": 645,
+                "height": 167
+            }
+        }
+    ]
+}

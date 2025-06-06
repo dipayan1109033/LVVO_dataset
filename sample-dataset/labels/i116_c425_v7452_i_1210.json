@@ -1,0 +1,34 @@
+{
+    "asset": {
+        "name": "i116_c425_v7452_i_1210.jpg",
+        "image_id": 16346,
+        "size": {
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    "objects": [
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 274,
+                "ymin": 243,
+                "xmax": 652,
+                "ymax": 551,
+                "width": 378,
+                "height": 308
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 689,
+                "ymin": 206,
+                "xmax": 1591,
+                "ymax": 593,
+                "width": 902,
+                "height": 387
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "asset": {
+        "name": "i2_c427_v7540_i_0714.jpg",
+        "image_id": 16734,
+        "size": {
+            "width": 1280,
+            "height": 1024
+        }
+    },
+    "objects": [
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 62,
+                "ymin": 627,
+                "xmax": 624,
+                "ymax": 980,
+                "width": 562,
+                "height": 353
+            }
+        },
+        {
+            "class": 3,
+            "boundingBox": {
+                "xmin": 759,
+                "ymin": 22,
+                "xmax": 1279,
+                "ymax": 419,
+                "width": 520,
+                "height": 397
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 795,
+                "ymin": 640,
+                "xmax": 1276,
+                "ymax": 938,
+                "width": 481,
+                "height": 298
+            }
+        }
+    ]
+}

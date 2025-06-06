@@ -1,0 +1,23 @@
+{
+    "asset": {
+        "name": "i5172_c439_v7605_i_7295.jpg",
+        "image_id": 17221,
+        "size": {
+            "width": 1824,
+            "height": 900
+        }
+    },
+    "objects": [
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 226,
+                "ymin": 62,
+                "xmax": 1355,
+                "ymax": 618,
+                "width": 1129,
+                "height": 556
+            }
+        }
+    ]
+}

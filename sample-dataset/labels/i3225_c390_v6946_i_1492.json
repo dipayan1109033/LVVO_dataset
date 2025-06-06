@@ -1,0 +1,45 @@
+{
+    "asset": {
+        "name": "i3225_c390_v6946_i_1492.jpg",
+        "image_id": 16802,
+        "size": {
+            "width": 1504,
+            "height": 800
+        }
+    },
+    "objects": [
+        {
+            "class": 1,
+            "boundingBox": {
+                "xmin": 173,
+                "ymin": 473,
+                "xmax": 1069,
+                "ymax": 740,
+                "width": 896,
+                "height": 267
+            }
+        },
+        {
+            "class": 2,
+            "boundingBox": {
+                "xmin": 185,
+                "ymin": 147,
+                "xmax": 540,
+                "ymax": 461,
+                "width": 355,
+                "height": 314
+            }
+        },
+        {
+            "class": 2,
+            "boundingBox": {
+                "xmin": 644,
+                "ymin": 163,
+                "xmax": 994,
+                "ymax": 444,
+                "width": 350,
+                "height": 281
+            }
+        }
+    ]
+}

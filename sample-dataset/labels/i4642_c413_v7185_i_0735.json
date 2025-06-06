@@ -1,0 +1,45 @@
+{
+    "asset": {
+        "name": "i4642_c413_v7185_i_0735.jpg",
+        "image_id": 17049,
+        "size": {
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "objects": [
+        {
+            "class": 2,
+            "boundingBox": {
+                "xmin": 107,
+                "ymin": 439,
+                "xmax": 467,
+                "ymax": 620,
+                "width": 360,
+                "height": 181
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 513,
+                "ymin": 99,
+                "xmax": 830,
+                "ymax": 611,
+                "width": 317,
+                "height": 512
+            }
+        },
+        {
+            "class": 2,
+            "boundingBox": {
+                "xmin": 111,
+                "ymin": 216,
+                "xmax": 466,
+                "ymax": 388,
+                "width": 355,
+                "height": 172
+            }
+        }
+    ]
+}

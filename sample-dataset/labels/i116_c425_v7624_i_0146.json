@@ -1,0 +1,56 @@
+{
+    "asset": {
+        "name": "i116_c425_v7624_i_0146.jpg",
+        "image_id": 16407,
+        "size": {
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    "objects": [
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 570,
+                "ymin": 287,
+                "xmax": 970,
+                "ymax": 636,
+                "width": 400,
+                "height": 349
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 132,
+                "ymin": 665,
+                "xmax": 552,
+                "ymax": 901,
+                "width": 420,
+                "height": 236
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 567,
+                "ymin": 667,
+                "xmax": 971,
+                "ymax": 928,
+                "width": 404,
+                "height": 261
+            }
+        },
+        {
+            "class": 4,
+            "boundingBox": {
+                "xmin": 132,
+                "ymin": 287,
+                "xmax": 551,
+                "ymax": 637,
+                "width": 419,
+                "height": 350
+            }
+        }
+    ]
+}

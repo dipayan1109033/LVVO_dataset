@@ -1,0 +1,37 @@
+# LICENSE.txt
+
+This repository includes multiple datasets and metadata files, each governed by a separate license:
+
+---
+
+## 1. LVVO Dataset
+
+The primary dataset developed by the authors and made available via the Google Drive link is licensed under:  
+Creative Commons Attribution 4.0 International License (CC BY 4.0)  
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## 2. LDD-Derived Metadata
+
+File: meta-files/ldd_filename_selected.csv  
+Derived from the Lecture Design Dataset (LDD):  
+https://github.com/imurs34/lecture-design-dataset  
+Licensed under:  
+Creative Commons Attribution 4.0 International (CC BY 4.0)  
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## 3. LPM-Derived Metadata
+
+File: meta-files/lpm_filename_selected.csv  
+Derived from the Lecture Presentations Multimodal (LPM) dataset:  
+https://github.com/dondongwon/LPMDataset  
+Licensed under:  
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+For citation and contact information, see the `README.md` or contact the authors directly.
