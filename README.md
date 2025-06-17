@@ -4,7 +4,7 @@
 The **Lecture Video Visual Objects (LVVO)** dataset is a benchmark designed for **object detection in lecture video frames**. It provides high-quality annotations of visual content such as tables, charts, images, and illustrations in real university lecture recordings.
 
 📄 Our Arxiv Paper can be found here: [Lecture Video Visual Objects (LVVO) Dataset:
-A Benchmark for Visual Object Detection in Educational Videos]()  
+A Benchmark for Visual Object Detection in Educational Videos](https://doi.org/10.48550/arXiv.2506.13657)  
 📥 The dataset can be downloaded here: [LVVO Dataset Download](https://drive.google.com/drive/folders/1RJjj71CAQHnRLqcWIYmJbWj_1zGmw2bO?usp=drive_link)
 
 ---
